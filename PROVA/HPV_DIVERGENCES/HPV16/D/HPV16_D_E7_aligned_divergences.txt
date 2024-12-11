@@ -1,0 +1,5 @@
+Lista de posições divergentes: 171
+Posição 171:
+  AY686579.1_E7: C
+  AF402678.1_E7: C
+  HQ644257.1_E7: T

@@ -1,0 +1,9 @@
+Lista de posições divergentes: 215, 216
+Posição 215:
+  EF202155.1_E5: C
+  KC470225.1_E5: C
+  EF202152.1_E5: T
+Posição 216:
+  EF202155.1_E5: A
+  KC470225.1_E5: A
+  EF202152.1_E5: C

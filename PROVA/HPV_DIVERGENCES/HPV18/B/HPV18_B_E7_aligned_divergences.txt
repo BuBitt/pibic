@@ -1,0 +1,17 @@
+Lista de posições divergentes: 60, 147, 275, 276
+Posição 60:
+  EF202155.1_E7: A
+  KC470225.1_E7: C
+  EF202152.1_E7: A
+Posição 147:
+  EF202155.1_E7: G
+  KC470225.1_E7: A
+  EF202152.1_E7: A
+Posição 275:
+  EF202155.1_E7: G
+  KC470225.1_E7: G
+  EF202152.1_E7: A
+Posição 276:
+  EF202155.1_E7: C
+  KC470225.1_E7: C
+  EF202152.1_E7: A

@@ -1,0 +1,13 @@
+Lista de posições divergentes: 213, 238, 447
+Posição 213:
+  KC470225.1_E6: T
+  EF202152.1_E6: T
+  EF202155.1_E6: C
+Posição 238:
+  KC470225.1_E6: C
+  EF202152.1_E6: C
+  EF202155.1_E6: T
+Posição 447:
+  KC470225.1_E6: A
+  EF202152.1_E6: A
+  EF202155.1_E6: G

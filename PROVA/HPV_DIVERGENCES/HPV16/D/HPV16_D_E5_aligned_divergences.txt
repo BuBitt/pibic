@@ -1,0 +1,9 @@
+Lista de posições divergentes: 118, 142
+Posição 118:
+  AY686579.1_E5: G
+  AF402678.1_E5: A
+  HQ644257.1_E5: A
+Posição 142:
+  AY686579.1_E5: G
+  AF402678.1_E5: G
+  HQ644257.1_E5: T

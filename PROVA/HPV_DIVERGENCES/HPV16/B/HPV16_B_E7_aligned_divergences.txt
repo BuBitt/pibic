@@ -1,0 +1,4 @@
+Lista de posições divergentes: 86
+Posição 86:
+  AF536180.1_E7: A
+  HQ644298.1_E7: G

@@ -1,0 +1,16 @@
+Lista de posições divergentes: 86, 105, 285
+Posição 86:
+  K02718.1_E7: A
+  AF536179.1_E7: A
+  HQ644236.1_E7: A
+  AF534061.1_E7: G
+Posição 105:
+  K02718.1_E7: G
+  AF536179.1_E7: G
+  HQ644236.1_E7: A
+  AF534061.1_E7: G
+Posição 285:
+  K02718.1_E7: T
+  AF536179.1_E7: T
+  HQ644236.1_E7: T
+  AF534061.1_E7: C
